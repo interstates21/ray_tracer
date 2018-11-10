@@ -17,7 +17,7 @@ SCENE SCRIPTING LANGUAGE:
 - camera  |[X]:[Y]:[Z]|[ROT_X]:[ROT_Y]:[ROT_Z]
 - light   |[X]:[Y]:[Z]
 - *no space beetween object_name and |[X]:[Y]....
-- *there must be at least one cam, one light and one primitive.
+*there must be at least one cam, one light and one primitive.
 - *KA - K AMBIENT - (0.0f - 1.0f)
 - *KD - K DIFFUSE - (0.0f - 1.0f)
 - *KS - K SPECULAR - (0.0f - 1.0f)
