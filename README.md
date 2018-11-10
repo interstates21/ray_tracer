@@ -8,6 +8,8 @@ Optimized raytracing engine
 - configurable Lambert + Phong illumination models
 - multiple light spots support
 
+...
+
 USAGE: ./RTv1 [scenes/CHOOSE_ANY_SCENE]
 SCENE SCRIPTING LANGUAGE:
 
@@ -32,6 +34,8 @@ light   |[X]:[Y]:[Z]
 - KS - K SPECULAR - (0.0f - 1.0f)
 - GS - GAMMA INTERPOLATION FOR SPECULAR - (0 - 500)
 - RGB - COLOR (0 - 255)
+
+...
 
 ![ALT test](screenshots/4.png)
 ![ALT test](screenshots/2.png)
