@@ -11,6 +11,7 @@ Optimized raytracing engine
 ...
 
 USAGE: ./RTv1 [scenes/CHOOSE_ANY_SCENE]
+
 SCENE SCRIPTING LANGUAGE:
 
 sphere  |[X]:[Y]:[Z]|[RADIUS]|[KA]:[KD]:[KS]|[GS]|[R]:[G]:[B]
